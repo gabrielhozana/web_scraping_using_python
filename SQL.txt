@@ -1,0 +1,1 @@
+id, date(datetime),judul(varchar255),isi(text),gambar(text),sumber(varchar255).
